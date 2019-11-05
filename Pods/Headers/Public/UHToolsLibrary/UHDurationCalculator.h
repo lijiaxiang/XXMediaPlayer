@@ -1,0 +1,1 @@
+../../../UHToolsLibrary/UHToolsLibrary/Classes/UHToolsFiles/UHDurationCalculator/UHDurationCalculator.h

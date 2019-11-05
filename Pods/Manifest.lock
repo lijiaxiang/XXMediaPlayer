@@ -1,0 +1,25 @@
+PODS:
+  - Masonry (1.1.0)
+  - UHFileIO (1.0.1)
+  - UHToolsLibrary (1.0.3):
+    - UHFileIO
+
+DEPENDENCIES:
+  - Masonry (~> 1.1.0)
+  - UHToolsLibrary (= 1.0.3)
+
+SPEC REPOS:
+  https://code.rightpaddle.cn/iOS-Public/UHSpecs.git:
+    - UHFileIO
+    - UHToolsLibrary
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  UHFileIO: 6253ba1086fc9e2c063d395fe998d59a851c3ec7
+  UHToolsLibrary: b7ec1c2836feb54c1f12325a96a74e66aefa6a95
+
+PODFILE CHECKSUM: b5c83f8eef5560b68f95c953b7d2b4b1090e0784
+
+COCOAPODS: 1.7.4

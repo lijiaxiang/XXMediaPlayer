@@ -1,0 +1,1 @@
+../../../UHToolsLibrary/UHToolsLibrary/Classes/UHToolsCategory/NSString/NSString+SNFoundation.h
